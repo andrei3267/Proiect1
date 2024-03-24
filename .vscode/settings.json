@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "*.s": "gas",
-        "iosfwd": "cpp",
-        "iostream": "cpp",
-        "istream": "cpp"
-    }
-}

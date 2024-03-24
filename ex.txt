@@ -1,6 +1,0 @@
-Vector de marime: 5
-Vetorul: 5 4 3 2 1
-Vector de marime: 6
-Vetorul: 1 2 3 4 5 6
-Vector de marime: 7
-Vetorul: 1 2 3 4 5 6 7
