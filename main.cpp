@@ -5,6 +5,6 @@ using namespace std;
 
 int main(){
     Maxim_vector max;
-    Vector v(30);
+    Vector v(20);
     cout<<v;
 }
